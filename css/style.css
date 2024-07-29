@@ -1,0 +1,44 @@
+input{
+    height: 100px;
+    width: 95%;
+    border: 2px solid black;
+    padding-left: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.col-6{
+
+    margin-top: 20px;
+}
+
+.container{
+    background-color: aqua;
+    width: 50%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+   
+}
+h1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.total{
+    float: left;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.remain{
+    float: right;
+    margin-right: 30px;
+    font-size: 30px;
+}
+#remaining{
+    color: red;
+}
+#total{
+    color: green;
+}
